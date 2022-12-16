@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-Console.WriteLine("Amazing Change 2");
+Console.WriteLine("This is only on the development branch");
 
 builder.Services.AddControllers();
 
