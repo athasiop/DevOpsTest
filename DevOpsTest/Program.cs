@@ -1,6 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
-Console.WriteLine("Changes to main");
+Console.WriteLine("This is only on the development branch");
+Console.WriteLine("MAIN");
 
 builder.Services.AddControllers();
 
