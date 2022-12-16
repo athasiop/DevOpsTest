@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-Console.WriteLine("Amazing Change");
+Console.WriteLine("Amazing Change 2");
 
 builder.Services.AddControllers();
 
